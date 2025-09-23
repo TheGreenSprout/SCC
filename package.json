@@ -1,1 +1,12 @@
-
+{
+  "name": "com.SproutingGames.Sprouts.CC",
+  "version": "0.0.0",
+  "displayName": "Sprouts.CC",
+  "description": "Multiple different character controllers ready for use!",
+  "unity": "6000",
+  "author": {
+    "name": "TheGreenSprout",
+    "email": "sprouting.games@gmail.com",
+    "url": "https://sprouts-garden.netlify.app"
+  }
+}
